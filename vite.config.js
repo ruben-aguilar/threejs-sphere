@@ -1,3 +1,3 @@
-{
-  base: "/";
-}
+export default {
+  base: "/",
+};
